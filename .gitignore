@@ -1,0 +1,7 @@
+node_modules
+.DS_Store
+downloaded_audio
+youtube_content**.json
+youtube_videos**.json
+youtubeScraperCli.ts
+youtubeScraper.ts
