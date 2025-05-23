@@ -1,5 +1,13 @@
-<!-- read me for the project -->
-# This project contains a tool to extract audio from youtube videos and download them to your computer, and also a tool to scrape youtube channels and extract their videos
+
+# YouTube Channel Scraper and Audio Downloader
+
+This project is a command-line tool that scrapes YouTube channels and downloads audio files from their videos. It uses the Puppeteer library to automate the process of scraping and the ffmpeg and yt-dlp libraries to download the audio files.
+
+## Prerequisites
+
+- Node.js
+- ffmpeg
+- yt-dlp
 
 ## Installation
 
