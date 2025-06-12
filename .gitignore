@@ -5,3 +5,6 @@ youtube_content**.json
 youtube_videos**.json
 youtubeScraperCli.ts
 youtubeScraper.ts
+transcribe.ts
+transcribe-all.ts
+transcripts
